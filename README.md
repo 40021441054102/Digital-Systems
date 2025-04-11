@@ -4,8 +4,8 @@
 </p>
 Digital Systems Exercises, Papers and Other Stuff
 
-Professor : Dr. Mohammad Hamghalam
-Student : Ramtin Kosari
+Professor : Dr. Mohammad Hamghalam   
+Student : Ramtin Kosari   
 
 # Prerequisites
 ```bash
