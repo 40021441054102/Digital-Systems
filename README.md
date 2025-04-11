@@ -1,7 +1,7 @@
 # Digital Systems Course
 Digital Systems Exercises, Papers and Other Stuff
 
-Teacher : Dr. Mohammad Hamghalam
+Professor : Dr. Mohammad Hamghalam
 Student : Ramtin Kosari
 
 # Prerequisites
