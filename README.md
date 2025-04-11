@@ -1,4 +1,7 @@
 # Digital Systems Course
+<p align="center">
+  <img src="./Assets/1.png" alt="" width="73%"/>
+</p>
 Digital Systems Exercises, Papers and Other Stuff
 
 Professor : Dr. Mohammad Hamghalam
