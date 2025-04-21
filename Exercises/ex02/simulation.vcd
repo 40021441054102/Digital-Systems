@@ -1,0 +1,77 @@
+$date
+  Sun Apr 20 22:46:40 2025
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module tb $end
+$var reg 3 ! sel[2:0] $end
+$var reg 16 " din0[15:0] $end
+$var reg 16 # din1[15:0] $end
+$var reg 16 $ din2[15:0] $end
+$var reg 16 % din3[15:0] $end
+$var reg 16 & din4[15:0] $end
+$var reg 16 ' din5[15:0] $end
+$var reg 16 ( din6[15:0] $end
+$var reg 16 ) din7[15:0] $end
+$var reg 16 * dout[15:0] $end
+$scope module uut $end
+$var reg 3 + sel[2:0] $end
+$var reg 16 , din0[15:0] $end
+$var reg 16 - din1[15:0] $end
+$var reg 16 . din2[15:0] $end
+$var reg 16 / din3[15:0] $end
+$var reg 16 0 din4[15:0] $end
+$var reg 16 1 din5[15:0] $end
+$var reg 16 2 din6[15:0] $end
+$var reg 16 3 din7[15:0] $end
+$var reg 16 4 dout[15:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b000 !
+b1010101010101010 "
+b1111111111111111 #
+b0101011001111000 $
+b1001101010111100 %
+b1101111011110000 &
+b0001001101010111 '
+b1111111111111111 (
+b1111111111111111 )
+b1010101010101010 *
+b000 +
+b1010101010101010 ,
+b1111111111111111 -
+b0101011001111000 .
+b1001101010111100 /
+b1101111011110000 0
+b0001001101010111 1
+b1111111111111111 2
+b1111111111111111 3
+b1010101010101010 4
+#10000000
+b011 !
+b1001101010111100 *
+b011 +
+b1001101010111100 4
+#20000000
+b111 !
+b1111111111111111 *
+b111 +
+b1111111111111111 4
+#30000000
+b101 !
+b0001001101010111 *
+b101 +
+b0001001101010111 4
+#40000000
